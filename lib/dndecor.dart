@@ -168,7 +168,7 @@ class _dndecorState extends State<dndecor> {
       body: ListView(
         children: [
           mainbody(docziker(context), 243, () {}),
-          //ليه اتنين متغير واحد كفايه تحت هنا
+         
           if (zka == '2')
             for (int i = 0; i < azkarlength; i++)
               ziker(
